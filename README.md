@@ -62,7 +62,7 @@ HireSync-AI/
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/HireSync-AI.git
+git clone https://github.com/Lakshitalearning/HireSync-AI.git
 cd HireSync-AI
 ```
 
@@ -205,18 +205,7 @@ if st.button("Rank Candidates"):
 
 
 ---
-## 📦 **Docker (Optional)**
 
-### Build Docker Image
-```bash
-docker-compose up --build
-```
-
-Access the app at:
-- Backend: `http://localhost:8000`
-- Frontend: `http://localhost:8501`
-
----
 
 ## 🧪 **Testing**
 
@@ -245,5 +234,5 @@ pytest tests/
 ---
 
 ## 📧 **Contact**
-For questions, feel free to reach out via [your_email@example.com](mailto:your_email@example.com).
+For questions, feel free to reach out via [adityabhaskar201@gmail.com](mailto:your_email@example.com).
 
