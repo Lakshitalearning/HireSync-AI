@@ -201,6 +201,9 @@ if st.button("Rank Candidates"):
 ## 📦 **Frontend Samples**
 ![image](https://github.com/user-attachments/assets/80f7e4d9-2131-4051-bf19-93b7531fffa1)
 ![image](https://github.com/user-attachments/assets/123ee858-d91a-4448-a7e7-a758d62b7c02)
+![image](https://github.com/user-attachments/assets/40e90838-2905-4638-b2bb-8eb316d1ffe1)
+![image](https://github.com/user-attachments/assets/3776ff34-4464-4ecc-8d33-d1f98d701b7f)
+![image](https://github.com/user-attachments/assets/8a9be174-f5c8-434f-9f31-12450f0e7b2f)
 
 
 
